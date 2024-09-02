@@ -1,5 +1,6 @@
 #include<iostream>
 int main(){
-    std::cout<<"hai";
+    std::cout<<"pen";
+    std::cout<<"paper";
     return 0;
 }
