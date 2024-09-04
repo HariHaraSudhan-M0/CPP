@@ -17,4 +17,9 @@ int main()
     std::cout<<"currency is : "<<currency<<'\n';
     std::cout<<"number is:"<<number<<'\n';
     std::cout<<"grade is:"<<grade<<'\n';
+
+    bool student=true;
+    bool power=false;
+    bool sale=true;
+    
 }
