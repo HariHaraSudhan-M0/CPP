@@ -12,7 +12,6 @@ int main()
     std::cout<<"cgpa is :"<<cgpa<<'\n';
 
     char grade='A';
-    char initial='B';
     char number='1';
     char currency ='&';
     std::cout<<"currency is : "<<currency<<'\n';
