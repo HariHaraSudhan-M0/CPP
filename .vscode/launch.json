@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/hari/Documents/CPP",
-      "program": "/Users/hari/Documents/CPP/build/Debug/outDebug"
+      "cwd": "/Users/hari/Documents/CPP/basics",
+      "program": "/Users/hari/Documents/CPP/basics/build/Debug/outDebug"
     }
   ]
 }
